@@ -1,0 +1,5 @@
+{
+  "name": "VizAI - Dynamic Data Visualization",
+  "description": "An AI-powered platform that converts datasets and reference images into interactive charts using Google Gemini.",
+  "requestFramePermissions": []
+}
